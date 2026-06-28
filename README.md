@@ -1,46 +1,21 @@
 # Ruben Gulasarian
-### Junior Manual QA Engineer | Computer Science Graduate
-
-A results-driven Junior QA Engineer with a solid background in Computer Science. I combine deep theoretical knowledge with extensive hands-on experience in Web, Mobile, and API testing. Leveraging modern AI-driven workflows for test design and requirements analysis, I focus on analyzing underlying application architecture, data flows, and network traffic to uncover critical defects.
-
-[LinkedIn](ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ТВОЙ_LINKEDIN) | [Email](mailto:ВСТАВЬ_СЮДА_ТВОЙ_EMAIL) | [E-Cruises QA Sandbox (Live Project)](https://ecru-qa.netlify.app/)
+**Junior Manual QA Engineer | Computer Science Graduate**  
+Holon, Israel | rubengulasarian@gmail.com | [LinkedIn](https://www.linkedin.com/in/rubengulasarian/)
 
 ---
 
-## 🛠️ Technical Skills & Competencies
+## 🎯 Professional Summary
+Detail-oriented Junior QA Engineer with a B.Sc. in Computer Science and commercial internship experience in web, mobile, and API testing. Proven track record in executing functional, regression, and exploratory testing across live e-commerce platforms and Web3/gaming ecosystems. Adept at breaking down frontend failures using DevTools, validating REST APIs via Postman, and utilizing AI-driven workflows for test design. Strong technical background enables deep root-cause analysis and seamless communication with development teams.
 
-### 🔍 Quality Assurance & Test Design
-* **Core Software Testing:** SDLC, STLC, Bug Lifecycle management, Requirements Analysis (Functional/Non-Functional, User Stories, Acceptance Criteria), Testing Principles, Verification vs. Validation.
-* **Testing Levels & Types:** Unit, Integration, System, End-to-End (E2E), Functional, Non-Functional, Smoke, Sanity, Regression, Retesting, Acceptance, Exploratory, and Ad-hoc testing.
-* **Defect Management:** Writing structured Bug Reports (STR, Expected/Actual results), Severity and Priority evaluation.
-* **Test Design Techniques:** Boundary Value Analysis (BVA), Equivalence Partitioning (EP), Decision Tables, State Transition, Pairwise Testing, Error Guessing, Cause-Effect graphs.
-* **Test Documentation:** Test Plans, Test Strategies, Test Cases, Checklists, Test Suites, Test Scenarios, Traceability Matrices.
+---
 
-### 🌐 Web & API Testing
-* **Client-Server Architecture:** HTTP/HTTPS protocols, Request/Response structure (Headers, Payload, Body), Status Codes, URL parsing, DNS, Cookies, Sessions, Cache, JSON/XML data formats.
-* **API Testing & Automation:** Postman (Collections, Environments, Global/Environment Variables, Bearer Tokens, Basic Auth, OAuth, Scripting, Assertions, automated test runs), REST and SOAP architectures.
-* **Web Debugging:** Advanced Chrome DevTools (Elements inspection, Network traffic, Console analysis for JS errors, Application Storage: Cookies, Local/Session Storage, Performance monitoring).
+## 🛠️ Technical Skillset
 
-### 📱 Mobile Testing
-* **Platforms & Architecture:** Native, Hybrid, and Mobile Web applications across Android and iOS.
-* **Mobile-Specific Testing:** Mobile UI/UX, gestures, permissions, notifications, offline mode behavior, network throttling/switching, screen rotations, and interruptions.
-* **Environment & Logs:** 
-  * **Android Studio:** Emulator management, Logcat inspection, app installation, and log debugging.
-  * **Xcode:** Simulator management, Console, and iOS-specific log analysis.
-
-### 🎛️ Traffic Sniffing & Proxy Tools
-* **Charles Proxy:** SSL Proxying setup, network traffic interception, Request/Response modification via Breakpoints and Rewrite rules.
-* **Fiddler Everywhere & Proxyman:** HTTP/HTTPS traffic analysis, request interception, and network simulation.
-
-### 💻 Infrastructure, Databases & Tools
-* **Databases:** SQL (Tables, Primary/Foreign keys, relationships).
-  * *Queries:* SELECT, WHERE, ORDER BY, GROUP BY, HAVING, LIMIT, DISTINCT.
-  * *Aggregate Functions:* COUNT, AVG, MIN, MAX, SUM.
-  * *Table Joins:* INNER JOIN, LEFT JOIN, RIGHT JOIN.
-* **Version Control & Terminal:** Git (Repository, Commit, Push, Pull, Clone, Branching, Merging), Bash/Terminal commands (`pwd`, `ls`, `cd`, `mkdir`, `rm`, `cp`, `mv`, `cat`, `grep`, `touch`).
-* **CI/CD & Process:** General understanding of Continuous Integration, Continuous Delivery, and Continuous Deployment pipelines.
-* **AI-Assisted QA:** Utilizing ChatGPT for test case generation, checklist creation, requirement analysis, and edge-case error guessing.
-* **Project Management & TMS:** Jira (Epic, Story, Task, Subtask tracking, workflows, custom filters, Scrum/Kanban boards), TestRail (Test case creation, test suites, test runs, and test reporting).
+* **QA & Test Design:** SDLC, STLC, Agile/Scrum, Requirements Analysis, Boundary Value Analysis (BVA), Equivalence Partitioning (EP), Pairwise Testing, Bug Reports (STR, Severity, Root-Cause), Test Cases, Checklists, Test Plans.
+* **API & Network Testing:** REST APIs, Postman (Collections, Variables, Basic Scripting/Assertions), Swagger, HTTP/HTTPS Protocols, Status Codes, JSON/XML, Charles Proxy, Fiddler Everywhere, Proxyman.
+* **Web & Mobile Testing:** Chrome DevTools (Console, Network, Application Storage), Android Studio (Logcat/Emulator), Xcode (Simulator/Console), Mobile Web/Native UI testing, Interruption & Network Throttling.
+* **Databases & Infrastructure:** SQL (SELECT, WHERE, JOINs, Group By, Aggregate functions), Git / GitHub, Bash/Terminal.
+* **Languages:** English (C1), Russian (C1), Georgian (C2), Armenian (B2), Hebrew (A1 - Studying).
 
 ---
 
@@ -48,5 +23,19 @@ A results-driven Junior QA Engineer with a solid background in Computer Science.
 
 ### 🌌 **E-Cruises QA Sandbox**
 * **Live Demo:** [ecru-qa.netlify.app](https://ecru-qa.netlify.app/)
-* **Description:** An interactive web simulator mimicking a sci-fi space cruise booking platform. This application was built using prompt engineering (Vibe Coding) with AI to intentionally model and embed over 10 hidden defects—ranging from logical flaws in date/passenger inputs to UI breaking behavior.
-* **Why it matters:** It showcases my ability to bridge my Computer Science background with advanced QA thinking, demonstrating a deep understanding of real-world bug patterns, validation vulnerabilities, and boundary value anomalies.
+* **Description:** An interactive web simulator mimicking a sci-fi space cruise booking platform. Built using prompt engineering (Vibe Coding) with AI to intentionally model and embed over 10 hidden real-world software defects—ranging from validation vulnerabilities in boundary values (passenger/date inputs) to UI breaking behavior. 
+* **Why it matters:** Demonstrates the practical intersection of my CS background and QA training, showcasing my ability to architect a test environment, document complex bug patterns, and guide generative AI for engineering goals.
+
+---
+
+## 💼 Work Experience Highlight
+
+* **QA Intern** @ *Mentored E-commerce Project* (May 2025 – Jul 2025) — Executed functional and regression test cases for core flows (checkout, account management). Isolated front-end failures via Chrome DevTools and validated REST API responses using Postman.
+* **Beta QA Tester (Freelance)** @ *JAMSkins Web Platform* (Dec 2025 – Jan 2026) — Conducted E2E manual testing of live registration, balance, and inventory flows. Identified 8 critical edge-case defects missed by scripted coverage via exploratory testing.
+* **Junior Front-End Developer (Intern)** @ *Itransition* (Nov 2024 – Jan 2025) — Developed responsive UI components using HTML, CSS, and JavaScript. Reduced layout bugs by 30% through systematic cross-browser debugging.
+
+---
+
+## 🎓 Education & Certifications
+* **B.Sc. in Computer Science** — International Black Sea University (2024)
+* **Software Testing Advanced Course** — Artsiom Rusau QA Academy (2026)
