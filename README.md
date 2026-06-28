@@ -40,15 +40,11 @@ A results-driven Junior QA Engineer with a solid background in Computer Science.
 ### 💻 Infrastructure, Databases & Tools
 * **Databases:** SQL (Tables, Primary/Foreign keys, relationships).
   * *Queries:* SELECT, WHERE, ORDER BY, GROUP BY, HAVING, LIMIT, DISTINCT.
-  * *Aggregate Functions:* COUNT, AVG, MIN, MAX, SUM.
   * *Table Joins:* INNER JOIN, LEFT JOIN, RIGHT JOIN.
 * **Version Control & Terminal:** Git (Repository, Commit, Push, Pull, Clone, Branching, Merging), Bash/Terminal commands (`pwd`, `ls`, `cd`, `mkdir`, `rm`, `cp`, `mv`, `cat`, `grep`, `touch`).
 * **CI/CD & Process:** General understanding of Continuous Integration, Continuous Delivery, and Continuous Deployment pipelines.
 * **AI-Assisted QA:** Utilizing ChatGPT for test case generation, checklist creation, requirement analysis, and edge-case error guessing.
 * **Project Management & TMS:** Jira (Epic, Story, Task, Subtask tracking, workflows, custom filters, Scrum/Kanban boards), TestRail (Test case creation, test suites, test runs, and test reporting).
-
-### 🗣️ Languages
-* **English:** C1 | **Russian:** C1 | **Georgian:** C2 | **Armenian:** B2 | **Hebrew:** A1 (Actively studying)
 
 ---
 
@@ -82,7 +78,13 @@ A results-driven Junior QA Engineer with a solid background in Computer Science.
 
 ## 🚀 Featured Projects
 
-### 🌌 **E-Cruises QA Sandbox**
+### 🛍️ **ÉCRU Studio — QA Sandbox & Bug Hunting Ground**
 * **Live Demo:** [ecru-qa.netlify.app](https://ecru-qa.netlify.app/)
-* **Description:** An interactive training website designed for QA engineers to practice exploratory testing, boundary value analysis, and bug hunting. It simulates a sci-fi space cruise booking platform where I have intentionally embedded over 10 real-world software defects (including validation failures, edge cases, and UI breaking behavior) for users to find and analyze.
-* **Why it matters:** It demonstrates my ability to think like a tester from the ground up, architect a proper test environment, and explicitly model common developer mistakes to help the QA community train their skills.
+* **Description:** An interactive, Scandinavian-minimalist e-commerce platform developed specifically as a website-trainer for QA engineers to practice exploratory testing, boundary value analysis, and bug hunting. The application fully models user registration, shopping catalog, filtering, sorting, cart state persistence, and checkout flows.
+* **The QA Challenge:** I have intentionally architected and embedded a variety of complex real-world software defects into the application logic. It simulates an online shop where developers made common validation mistakes (e.g., missing password verification during login, infinite stacking of promo discounts, or inclusive filter edge cases), creating a perfect environment for testers to train their skills.
+* **Why it matters:** It demonstrates my ability to shift perspective from regular user behavior to analytical debugging. By explicitly modeling common developer vulnerabilities, this project showcases my deep comprehension of application data logic, edge cases, and front-end failure patterns.
+
+---
+
+## 🗣️ Languages
+* **English:** C1 | **Russian:** C1 | **Georgian:** C2 | **Armenian:** B2 | **Hebrew:** A1 (Actively studying)
